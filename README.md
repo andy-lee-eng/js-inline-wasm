@@ -32,9 +32,9 @@ scripts: {
 
 * -h, --help            Show this Help page
 
-### Templates
+### Types
 
-Each template outputs a different variant of JavaScript file
+Each type outputs a different variant of JavaScript file
 
 #### -type fetch
 
