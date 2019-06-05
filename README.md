@@ -14,6 +14,14 @@ npm install -D js-inline-wasm
 $ inlinewasm sample.wasm [--output sample.js] [--type fetch]
 ```
 
+In `package.json`
+
+```json
+scripts: {
+    "inlinewasm": "inlinewasm wasm/sample.wasm --output build/sample.js"
+}
+```
+
 ### Options
 
 * --input file          The .wasm file to inline
