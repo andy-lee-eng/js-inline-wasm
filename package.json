@@ -1,6 +1,6 @@
 {
   "name": "js-inline-wasm",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A tool for bundling a WebAssembly .wasm file into a .js library file with async loading.",
   "license": "MIT",
   "homepage": "https://github.com/DevAndyLee/js-inline-wasm",
