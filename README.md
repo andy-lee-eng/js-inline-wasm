@@ -47,7 +47,7 @@ WebAssembly.instantiateStreaming(fetchSample)
     .then(obj => obj.instance.exports.exported_func());
 ```
 
-#### -type encoded
+#### -type decoded
 
 Creates a JavaScript file with a default export byte array containing the decoded .wasm content
 
